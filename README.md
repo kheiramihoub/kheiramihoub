@@ -27,7 +27,7 @@ Self-thaught programmer|💻 Olympiad Coach & Organizer | 🤖 AI Enthusiast | M
 ---
 
 ### 🏆 Achievements
-- 🥇 **uGJOI Gold Medalist**  
+- 🥇 **UGJOI Gold Medalist**  
 - 💼 **Coach & Organizer** — Algerian Olympiad in Informatics  
 
 ---
