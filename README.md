@@ -12,7 +12,7 @@ Self-thaught programmer|💻 Olympiad Coach & Organizer | 🤖 AI Enthusiast | M
 - 🤖 Passionate about **Artificial Intelligence** and algorithmic creativity  
 - 🌱 Always exploring the link between **math, logic, and learning**  
 - 💬 Love mentoring and helping others unlock their potential  
-- 🩺 **Medical student** passionate about tech that saves lives  
+- 🩺 Passionate about tech that saves lives  
 
 ---
 
